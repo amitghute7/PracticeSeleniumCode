@@ -34,7 +34,9 @@ public class WebDriverConcept  {
 	}
 
 	
-
+	public void selectPhoto() {
+		System.out.println("this is my photo");
+	}
 	
 	
 	
