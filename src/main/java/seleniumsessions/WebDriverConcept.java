@@ -34,6 +34,13 @@ public class WebDriverConcept  {
 	}
 
 	
+	public void selectPhoto() {
+		System.out.println("this is my photo");
+	}
+	
+	
+	
+	
 	public void getScreenshot(){
 		TakesScreenshot srcshotfile = ((TakesScreenshot) driver);
 		File srcfile = srcshotfile.getScreenshotAs(OutputType.FILE);
