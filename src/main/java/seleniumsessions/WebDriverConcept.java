@@ -35,7 +35,7 @@ public class WebDriverConcept  {
 
 	
 	
-	public void myPhoto() {
+	public void cartPage() {
 		System.out.println("this is my photo");
 	}
 	
