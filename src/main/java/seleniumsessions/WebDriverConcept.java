@@ -32,16 +32,7 @@ public class WebDriverConcept  {
 		driver.close();
 
 	}
-
-	
-	
-	public void cartPage() {
-		System.out.println("this is my photo");
-	}
-	
-	
-	
-	
+    
 	
 	public void getScreenshot(){
 		TakesScreenshot srcshotfile = ((TakesScreenshot) driver);
